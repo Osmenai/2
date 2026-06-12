@@ -1,4 +1,4 @@
-name: Code coverage with grcov
+Osmenname: Code coverage with grcov
 
 on:
   # Run at every day at 2:15.
